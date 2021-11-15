@@ -1,0 +1,17 @@
+{
+  "posts": [
+    {
+      "nom": "BAALI",
+      "prenom": "Anasse",
+      "utilisateur": "AnasseBL",
+      "date": "2021-11-14",
+      "etat": "Validé",
+      "matricule": "3320",
+      "id": 1
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
